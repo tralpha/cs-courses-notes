@@ -2,7 +2,7 @@
 Contains information, notes, and personal opinion on a couple of courses (both at Undergraduage and Graduate levels) I took while studying to improve my Machine Learning and Software Engineering Skills.
 I arranged the courses by the offering university.
 ## Stanford University
-I took a couple of courses from Stanford, especially right at the beginning of my training. The include:
+I took a couple of courses from Stanford, especially right at the beginning of my training. They include:
 1. [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/courseware/d9820868fd3642f19ee45e273e3dfafa/).
 This course is fantastic, and mainly revolves around the book [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf). It's a great foundation in Machine Learning, and covers the major ML models, like Linear Regression, Logistic Regression, Decision Trees, Gradient Boosting (one of my favourite!), and many others. The Course Authors are among the inventors of a couple of these algorithm and are extremely well known in their fields. In fact, understanding this course automatically leads one to understand the theory behind most ensembling algorithms, like Random Forests and Gradient Boosted Decision Trees.
 	- _Time Taken_: 2016 Q1
@@ -18,7 +18,7 @@ This is one of my favorite course on Natural Language Processing (NLP). It was o
 	- _Mathematics Content_: Average to High
 	
 3. [Introduction to Mathematical Thinking](https://www.coursera.org/course/maththink)
-Although it's an undegraduate level course, this course is particularly good at going to the fundamentals of Mathematics required for success in any STEM field major. It thoroughly covers the topic of "logic", with [Professor Keith Devlin](http://www.stanford.edu/~kdevlin/) always emphasizing on developing one's "Math Sense" rather than just memorizing the formula. I particularly enjoyed the passion and personality of Professor Keith. He really makes someone to fall in love with Mathematics, which I did. 
+Although it's an undegraduate level course, this course is particularly good at going to the fundamentals of Mathematics required for success in any STEM field major. It thoroughly covers the topic of "logic", with [Professor Keith Devlin](http://www.stanford.edu/~kdevlin/) always emphasizing on developing one's "Math Sense" rather than just memorizing formulas. I particularly enjoyed the passion and personality of Professor Keith. He can really makes someone to fall in love with Mathematics - I did indeed fall in love with advanced Maths after his course.
 	- _Time Taken_: 2016 Q1
 	- _Programming Language Used_: None. I did use some python sometimes, when the logic got very complex. The goal wasn't to make things easier for me at the time, but the goal was to simply become familiar with `python`. 
 	- _Course Difficulty_: Easy to Medium
