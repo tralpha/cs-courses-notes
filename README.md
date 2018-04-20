@@ -42,12 +42,14 @@ This was one of my favourite courses. Learning about the Prisoner's Dilemma coul
 I managed to take a couple of courses at MIT, most of which were undergraduate courses. I found MIT Courses, especially those on the ocw.mit.edu website, to be particularly challenging. Courses are:
 1. [Introduction to Probability & Statistics](https://courses.edx.org/courses/MITx%2F6.041x_1%2F1T2015/info)
 This course was a very fun and challenging one. I learned a lot, and feel like my probability & maths skills got a lot better. I believe this kind of formed the foundation upon which I could slowly build my ML and DL skills over time. I highly recommend it to anyone interested in getting **good** at probability.
+
 	- _Time Taken_: Q2 2015
 	- _Programming Language Used_: `None`. Although, at the end of the course, I experimented with a library for symbolic maths in Python called [`sympy`](http://www.sympy.org/en/index.html). `sympy` is super fun too!
 	- _Course Difficulty_: Medium. It's not too hard, but in case one wants to go deeper (which I did, by doing _all exercises_ in the associated textbook, then it can get very hard).
 	- _Mathematics Content_: High
 2. [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 This course gives you the basics of what kind of Maths to expect while going to a Computer Science curriculum. I found it very comprehensive as it covered most CS Math subjects like graph theory, probability, statistics, calculus, etc.
+
 	- _Time Taken_: Q4 2014
 	- _Programming Language Used_: `None`
 	- _Course Difficulty_: Medium
