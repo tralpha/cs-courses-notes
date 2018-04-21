@@ -20,21 +20,21 @@ This is one of my favorite course on Natural Language Processing (NLP). It was o
 3. [Introduction to Mathematical Thinking](https://www.coursera.org/course/maththink)
 Although it's an undegraduate level course, this course is particularly good at going to the fundamentals of Mathematics required for success in any STEM field major. It thoroughly covers the topic of "logic", with [Professor Keith Devlin](http://www.stanford.edu/~kdevlin/) always emphasizing on developing one's "Math Sense" rather than just memorizing formulas. I particularly enjoyed the passion and personality of Professor Keith. He can really makes someone to fall in love with Mathematics - I did indeed fall in love with advanced Maths after his course.
 	- _Time Taken_: 2016 Q1
-	- _Programming Language Used_: None. I did use some python sometimes, when the logic got very complex. The goal wasn't to make things easier for me at the time, but the goal was to simply become familiar with `python`. 
+	- _Programming Language Used_: `None`. I did use some python sometimes, when the logic got very complex. The goal wasn't to make things easier for me at the time, but the goal was to simply become familiar with `python`. 
 	- _Course Difficulty_: Easy to Medium
 	- _Mathematics Content_: High
 	
 4. [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning/home/welcome)
 Being one of the "founding courses" of the MOOC Revolution, I'm both proud and deeply grateful to have taken it in summer 2016 and scored 95.7% final grade. I'd have to admit that the assignments were very easy though (as is the case for assignments of most MOOCs. They're easy mostly to improve graduation rates). The course is particularly good in explaining Machine Learning from scratch, while giving one the intuition of most algorithms, starting from Linear Regression. 
 	- _Time Taken_: Summer 2016
-	- _Programming Language Used_: Octave (open-source equivalent of Matlab)
+	- _Programming Language Used_: `Octave` (open-source equivalent of Matlab)
 	- _Course Difficulty_: Easy
 	- _Mathematics Content_: Medium
 
 5. [Game Theory](https://www.coursera.org/learn/game-theory-1)
 This was one of my favourite courses. Learning about the Prisoner's Dilemma could be very enjoyable but at times challenging as it involved deep probabilty. I believe this course further solidified my probability knowledge, which is very useful for any Machine Learning Engineer.
 	- _Time Taken_: 2016 Q1
-	- _Programming Language Used_: None, however I used a Python Library called [`Gambit`](http://www.gambit-project.org/gambit13/pyapi.html#)
+	- _Programming Language Used_: `None`, however I used a Python Library called [`Gambit`](http://www.gambit-project.org/gambit13/pyapi.html#)
 	- _Course Difficulty_: Medium
 	- _Mathematics Content_: High
 
@@ -74,10 +74,22 @@ For anyone interested, I also made a mind map for this course (mindmaps are cool
 	- _Mathematics Content_: Very Low
 
 ## Udacity
-I'm a huge fan of Udacity. In fact, I even help them grade projects and mentor students in my free time. I'd say I owe my passion in Computer Science and coding to them. 
-1. [Introduction to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101) 
-My journey with Udacity started in late 2013 when I fell upon the course Introduction to Computer Science(https://www.udacity.com/course/intro-to-computer-science--cs101). At the time, it was one of the best CS courses I'd seen around the internet, with the lecturer teaching Computer Science from scratch, using Python. The assignments were very challenging (even till now most friends who take it find it to be challenging), but had solutions which could still help and guide one throughout. I completed the whole course by doing all of the programming exercises included in it. It was really rewarding to see learn all of this programming, given that I didn't have a background in CS!
-After the Intro to CS course, I sticked to Udacity pretty much the whole time when learning how to code and program. I took the following courses from them (I just audited some of them, obtained certificates for some, beta tested a couple of them too, and even got invited as a mentor for others). They are listed below:
-	- [Web Development](https://classroom.udacity.com/courses/cs253) (one of the first Web Dev courses and my second course in my programming self-education)
-	- [Intro to Algorithms], by Michael Littman! I loved this one.
-	- 
+I'm a huge fan of Udacity. In fact, I even help them grade projects and mentor students in my free time. I'd say I owe my passion in Computer Science and coding to them. My journey with the MOOC platform started in late 2013 when I fell upon the course Introduction to Computer Science (https://www.udacity.com/course/intro-to-computer-science--cs101)(https://www.udacity.com/course/intro-to-computer-science--cs101). At the time, it was one of the best CS courses I'd seen around the internet, with the lecturer teaching Computer Science from scratch, using Python. The assignments were very challenging (even till now most friends who take it find it to be challenging), but had solutions which could still help and guide one throughout. I completed the whole course by doing all of the programming exercises included in it. It was really rewarding to learn all of this programming, given that I didn't have a background in CS!
+After the Intro to CS course, I sticked to Udacity pretty much the whole time when learning how to code and program. I took the following courses from them (I just audited some, obtained certificates for some, beta tested a couple of them too, and even got invited as a mentor and grader for others). They are listed below:
+- [Web Development](https://classroom.udacity.com/courses/cs253) (one of the first Web Dev courses and my second course in my programming self-education)
+- [Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215), by Michael Littman! I loved this one.
+- [Front-End Web Development Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001). I was among the first batch of Udacity Students to enroll and graduate from this one.
+- [Software Debugging](https://classroom.udacity.com/courses/cs259) I learned the ins and outs of `python` via this course
+- [Machine Learning Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) & [Data Analyst Nanodegrees](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+- [How to Use Git and Github](https://www.udacity.com/course/version-control-with-git--ud123), [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123), [GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456). Version Control, version control, and yes, version control. Took the first course (how to use git and github) when taking the Front End Nanodegree, and then took the two others when I wanted a revision and a new perspective on how to use Version Control. Version control is extremely powerful, and I'll recommend any aspiring coder to master this skill. I have mindmaps for each of these different courses in a Version Control Mindmap, feel free to steal it ;)
+- [Rapid Prototyping](https://classroom.udacity.com/courses/ud723). I think this course is for all coders who're scared of design (I was once like that!). Take this course, and you won't be scared of plunging into coding that brand new zero code zero design idea of yours!
+Now that's it for Udacity. So much so as I love the platform, they have a huge competitor, Coursera, from which I learned a lot too.
+
+## Coursera
+Coursera is an awesome platform. Their courses are closer to the Academic counterparts, since the lecturers and courses are designed by partner universities rather than partner companies like Udacity. I believe this is the main difference between Coursera and Udacity - Udacity focuses on providing jobs to students, while Coursera is more Academic. 
+In addition to the courses listed above like Machine Learning from Andrew Ng, I took the following courses from Coursera.
+- [Software Product Management](https://www.coursera.org/specializations/product-management). Great course, it's more modern than the [Software Development Process](https://www.udacity.com/course/software-development-process--ud805) course from Udacity.
+- [Entrepreneurship Wharton](https://www.coursera.org/specializations/wharton-entrepreneurship). Ahh, this one. Amazing course, insightful professors. Lots and lots to learn about Entrepreneurship. Highly recommended.
+	
+
+
