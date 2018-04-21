@@ -1,6 +1,6 @@
-# ML Courses notes
-Contains information, notes, and personal opinion on a couple of courses (both at Undergraduage and Graduate levels) I took while studying to improve my Machine Learning and Software Engineering Skills.
-I arranged the courses by the offering university.
+# CS Courses Notes
+Contains information, notes, and personal opinion on a couple of courses (both at Undergraduage and Graduate levels) I took while studying to improve my Machine Learning and Software Engineering Skills, as well as my Computer Science Knowledge.
+I arranged the courses by the offering university first, then by offering MOOC.
 ## Stanford University
 I took a couple of courses from Stanford, especially right at the beginning of my training. They include:
 1. [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/courseware/d9820868fd3642f19ee45e273e3dfafa/).
@@ -72,3 +72,12 @@ For anyone interested, I also made a mind map for this course (mindmaps are cool
 	- _Programming Language Used_: `None` (I wished there were some programming projects in the course)
 	- _Course Difficulty_: Easy
 	- _Mathematics Content_: Very Low
+
+## Udacity
+I'm a huge fan of Udacity. In fact, I even help them grade projects and mentor students in my free time. I'd say I owe my passion in Computer Science and coding to them. 
+1. [Introduction to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101) 
+My journey with Udacity started in late 2013 when I fell upon the course Introduction to Computer Science(https://www.udacity.com/course/intro-to-computer-science--cs101). At the time, it was one of the best CS courses I'd seen around the internet, with the lecturer teaching Computer Science from scratch, using Python. The assignments were very challenging (even till now most friends who take it find it to be challenging), but had solutions which could still help and guide one throughout. I completed the whole course by doing all of the programming exercises included in it. It was really rewarding to see learn all of this programming, given that I didn't have a background in CS!
+After the Intro to CS course, I sticked to Udacity pretty much the whole time when learning how to code and program. I took the following courses from them (I just audited some of them, obtained certificates for some, beta tested a couple of them too, and even got invited as a mentor for others). They are listed below:
+	- [Web Development](https://classroom.udacity.com/courses/cs253) (one of the first Web Dev courses and my second course in my programming self-education)
+	- [Intro to Algorithms], by Michael Littman! I loved this one.
+	- 
