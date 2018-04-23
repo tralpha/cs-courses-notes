@@ -59,7 +59,7 @@ This course gives you the basics of what kind of Maths to expect while going to 
 Atlanta, here I come! Georgia Tech offers a really cool [Online Master Degree in Computer Science on Udacity (OMCS)](https://www.omscs.gatech.edu/). I spend most of my free time peeping into the courses, checking out which one I can take next, because the course videos are available for free on Udacity! The course catalog is quite attractive, and is updated every once in a while with new courses. I wished I had more time to devour all of the courses, especially the ones on Cybersecurity, which is a secret passion I started developing in 2017.
 1. [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
 I took this course out of frustration. I was about to start a whole new, daunting software project, of building a dashboard web app. However, I didn't really know how to start. All I knew was how to write python functions. I also needed help from other developers to be able to complete the web app on time, and needed a process to manage myself and the other devs I brought onboard. So I took this particular course, and to be honest till now I still use information from this course in managing any software project (of course combined with other information from other sources). This course is great for anyone yearning to learn how to implement and manage a bug-free software project from A to Z.
-- Note: I made a mindmap of this course with the Mac [MindNode](https://mindnode.com/) software. It's present in this repository. I regularly use this mindmap to remind myself of any useful piece of knowledge when I'm managing or building a big software project.
+- Note: I made a [mindmap of this course](https://github.com/tralpha/cs-courses-notes/tree/master/software_dev_process) with the Mac [MindNode](https://mindnode.com/) software. It's present in this repository. I regularly use this mindmap to remind myself of any useful piece of knowledge when I'm managing or building a big software project.
 	- _Time Taken_: Q2 2017
 	- _Programming Language Used_: `None`
 	- _Course Difficulty_: Easy
@@ -67,7 +67,7 @@ I took this course out of frustration. I was about to start a whole new, dauntin
 
 2. [Introduction to Information Security](https://www.udacity.com/course/intro-to-information-security--ud459)
 Introductory course to Cybersecurity. Though the course does a great job of covering all of the different sub-topics of cybersecurity, I expected it to be a bit more technical, especially in terms of programming. It however gives an interested learner a door into the world of Cybersecurity, which is a very fun world.
-For anyone interested, I also made a mind map for this course (mindmaps are cool, aren't they?), which present in this repository. The mind map is very extensive, covering all of the topics in the course. I made it using the [MindNode](https://mindnode.com/) software for Mac. 
+For anyone interested, I also made a [mind map for this course](https://github.com/tralpha/cs-courses-notes/tree/master/information_security) (mindmaps are cool, aren't they?), which present in this repository. The mind map is very extensive, covering all of the topics in the course. I made it using the [MindNode](https://mindnode.com/) software for Mac. 
 	- _Time Taken_: Q3 2017
 	- _Programming Language Used_: `None` (I wished there were some programming projects in the course)
 	- _Course Difficulty_: Easy
