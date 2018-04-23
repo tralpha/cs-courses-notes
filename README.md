@@ -1,10 +1,10 @@
 # CS Courses Notes
-Contains information, notes, and personal opinion on a couple of courses (both at Undergraduage and Graduate levels) I took while studying to improve my Machine Learning/Software Engineering Skills, as well as my Computer Science Knowledge.
+Contains information, notes, and personal opinion on courses (both at Undergraduage and Graduate levels) I took while studying to improve my Machine Learning/Software Engineering Skills, as well as my Computer Science Knowledge.
 I arranged the courses by the offering university first, then by offering MOOC.
 ## Stanford University
 I took a couple of courses from Stanford, especially right at the beginning of my training. They include:
 1. [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/courseware/d9820868fd3642f19ee45e273e3dfafa/).
-This course is fantastic, and mainly revolves around the book [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf). It's a great foundation in Machine Learning, and covers the major ML models, like Linear Regression, Logistic Regression, Decision Trees, Gradient Boosting (one of my favourite!), and many others. The Course Authors, Trevor Hastie and Rob Tibshirani, are among the inventors of a couple of these algorithms and are extremely well known in their fields. In fact, understanding this course automatically leads one to understand the theory behind most ensembling algorithms, like Random Forests and Gradient Boosted Decision Trees.
+This course is fantastic, and mainly revolves around the book [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf). It's a great foundation in Machine Learning, and covers the major ML models, like Linear Regression, Logistic Regression, Decision Trees, Gradient Boosting (one of my favourite!), and many others. The Course Authors, [Trevor Hastie](http://web.stanford.edu/~hastie/) and [Rob Tibshirani](https://statweb.stanford.edu/~tibs/index.html), are among the inventors of a couple of these algorithms and are extremely well known in their fields. In fact, understanding this course automatically leads one to understand the theory behind most ensembling algorithms, like Random Forests and Gradient Boosted Decision Trees.
 	- _Time Taken_: 2016 Q1
 	- _Programming Language Used_: `R`
 	- _Course Difficulty_: Medium
