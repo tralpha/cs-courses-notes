@@ -39,7 +39,7 @@ This was one of my favourite courses. Learning about the Prisoner's Dilemma coul
 	- _Mathematics Content_: High
 
 ## MIT
-I managed to take a couple of courses at MIT, most of which were undergraduate courses. I found MIT Courses, especially those on the ocw.mit.edu website, to be particularly challenging. Courses are:
+I managed to take a couple of courses at MIT, most of which were undergraduate courses. I found MIT Courses, especially those on the ocw.mit.edu website, to be particularly challenging, as the materials presented in the courses were scanty and sometimes incomplete. Courses are:
 1. [Introduction to Probability & Statistics](https://courses.edx.org/courses/MITx%2F6.041x_1%2F1T2015/info)
 This course was a very fun and challenging one. I learned a lot, and feel like my probability & maths skills got a lot better. I believe this kind of formed the foundation upon which I could slowly build my ML and DL skills over time. I highly recommend it to anyone interested in getting **good** at probability.
 
